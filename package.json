@@ -53,7 +53,7 @@
   },
   "dependencies": {
     "base64-js": "^1.5.1",
-    "idtoken-verifier": "^2.2.2",
+    "idtoken-verifier": "git+https://github.com/auth0/idtoken-verifier.git",
     "js-cookie": "^2.2.0",
     "qs": "^6.10.1",
     "superagent": "^5.3.1",
